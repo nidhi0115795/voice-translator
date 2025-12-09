@@ -39,5 +39,6 @@ pip install -r requirements.txt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nidhii0115795/voice translator.git
-cd multilingual-announcement-engine
+[git clone https://github.com/nidhii0115795/voice translator.git
+cd multilingual-announcement-engine]
+(https://github.com/nidhi0115795/voice-translator.git)
